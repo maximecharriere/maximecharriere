@@ -82,6 +82,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maximecharriere/maximecharriere/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maximecharriere/maximecharriere/output/snake-github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maximecharriere/maximecharriere/output/snake-github-light.svg" />
+  <img alt="Snake animation" src="github-snake.svg" />
+</picture>
 
 ###
